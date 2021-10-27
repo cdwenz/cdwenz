@@ -23,6 +23,6 @@
 <br />
 <br />
 
-[website]: 
-[twitter]: https://twitter.com/cdwenz
-[linkedin]: https://linkedin.com/in/cristian-wenz-dev
+website: 
+twitter: https://twitter.com/cdwenz
+linkedin: https://linkedin.com/in/cristian-wenz-dev
