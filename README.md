@@ -1,13 +1,5 @@
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 
-- 🌱 
-- 👯 
-- 🥅 
-- ⚡ 
+## I'm a Husband, Father, and Developer!!
 
 ### Languages and Tools:
 
@@ -23,6 +15,6 @@
 <br />
 <br />
 
-website: 
 twitter: https://twitter.com/cdwenz
+<br />
 linkedin: https://linkedin.com/in/cristian-wenz-dev
