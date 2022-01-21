@@ -43,5 +43,6 @@ leer: 'objetivo de leer mas que en 2021 (13 libros)'
  - email: cdwenz@gmail.com ,
  - twitter: https://twitter.com/cdwenz
  - linkedin: https://www.linkedin.com/in/cristian-wenz-dev
+ - web: https://cdwenz-portfolio.vercel.app/
 
 <br>
