@@ -16,6 +16,7 @@ Mi nombre es Cristian, soy esposo, padre de 2 pequeños, tengo 35 años.
 - 🌴 Me gusta el trabajo en equipo, y la sinergia que ello genera para llegar mas lejos
  
 <br>
+
 ###  hobbies:
 
  ```javascript
