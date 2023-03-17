@@ -23,7 +23,7 @@ Mi nombre es Cristian, soy esposo, padre de 2 pequeños, tengo 35 años.
 const hobbies = {
 futbol: 'tranquilo y entre amigos, sin competencia',
 viajar: 'en familia, mates, y ruta sin importar donde',
-leer: 'objetivo de leer mas que en 2021 (13 libros)'
+leer: 'Distintos generos literarios'
 }
 ```
 ###  Algunas de las tecnologias que trabajo: 
