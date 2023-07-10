@@ -4,7 +4,7 @@
 const Person = {
   name: "Cristian",
   lastName: "Wenz",
-  age: (20*2),
+  age: 36,
   married: "Si",
   children: 2
 }
