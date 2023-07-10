@@ -4,13 +4,13 @@
 const Person = {
   name: "Cristian",
   lastName: "Wenz",
-  age: 35,
+  age: (20*2),
   married: "Si",
   children: 2
 }
 ```
 
-Mi nombre es Cristian, soy esposo, padre de 2 pequeños, tengo 35 años.
+Mi nombre es Cristian, soy esposo, padre de 2 pequeños, tengo 36 años.
 - 💻 Soy desarrollador FullStack
 - 🎯 La programación me ayudo a enfocarme en los objetivos, plantenado metas claras al momento de resolver un problema
 - 🌴 Me gusta el trabajo en equipo, y la sinergia que ello genera para llegar mas lejos
