@@ -1,7 +1,7 @@
 
 ### Sobre mí
 ```javascript
-const Person = {
+const Developer = {
   name: "Cristian",
   lastName: "Wenz",
   age: 36,
