@@ -5,7 +5,7 @@ const Developer = {
   name: "Cristian",
   lastName: "Wenz",
   age: 36,
-  married: "Si",
+  married: true,
   children: 2
 }
 ```
@@ -43,7 +43,7 @@ leer: 'Distintos generos literarios'
 
  - email: cdwenz@gmail.com ,
  - twitter: https://twitter.com/cdwenz
- - linkedin: https://www.linkedin.com/in/cristian-wenz-dev
- - web: https://cdwenz-portfolio.vercel.app/
+ - linkedin: https://www.linkedin.com/in/cdwenz
+ - web: https://cristianwenz.tech/
 
 <br>
