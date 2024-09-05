@@ -10,7 +10,7 @@ const Developer = {
 }
 ```
 
-Mi nombre es Cristian, soy esposo, padre de 2 pequeños, tengo 36 años.
+Mi nombre es Cristian, soy esposo, padre de 2 pequeños, tengo 37 años.
 - 💻 Soy desarrollador FullStack
 - 🎯 La programación me ayudo a enfocarme en los objetivos, plantenado metas claras al momento de resolver un problema
 - 🌴 Me gusta el trabajo en equipo, y la sinergia que ello genera para llegar mas lejos
@@ -44,6 +44,6 @@ leer: 'Distintos generos literarios'
  - email: cdwenz@gmail.com ,
  - twitter: https://twitter.com/cdwenz
  - linkedin: https://www.linkedin.com/in/cdwenz
- - web: https://cristianwenz.tech/
+ - web:
 
 <br>
