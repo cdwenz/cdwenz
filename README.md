@@ -4,9 +4,7 @@
 const Developer = {
   name: "Cristian",
   lastName: "Wenz",
-  age: 37,
-  married: true,
-  children: 2
+  age: 38
 }
 ```
 
