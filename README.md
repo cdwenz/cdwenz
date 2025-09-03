@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I’m a **fullstack developer** and founder of <a href="https://github.com/HardCodeTechnologies">**HardCode Technologies**</a>, where we turn ideas into **scalable digital products**.  
+I’m a **fullstack developer** and founder of <a href="https://github.com/HardCodeTechnologies" target="_blank">**HardCode Technologies**</a>, where we turn ideas into **scalable digital products**.  
 I build **multi-tenant SaaS platforms**, **web applications**, and **mobile apps** using modern technologies.
   
 
