@@ -24,7 +24,6 @@ I build **multi-tenant SaaS platforms**, **web applications**, and **mobile apps
 - 🛒 **[ShopiNow](#)** – E-commerce catalog integrated with WhatsApp.  
 - 📲 **[MenuBarQR](#)** – Digital menus with QR codes.  
 
-*(Add real links to repos or live demos here)*
 
 ---
 
@@ -41,5 +40,5 @@ I build **multi-tenant SaaS platforms**, **web applications**, and **mobile apps
 <p align="center">
   <a href="https://www.linkedin.com/in/cdwenz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:cdwenz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://hardcode.ar"><img src="https://img.shields.io/badge/Website-HardCode_Technologies-FC6502?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://instagram.com/hardcode_tech"><img src="https://img.shields.io/badge/Website-HardCode_Technologies-FC6502?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
