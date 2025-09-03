@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I’m a **fullstack developer** and founder of <a href="https://github.com/HardCodeTechnologies" target="_blank">**HardCode Technologies**</a>, where we turn ideas into **scalable digital products**.  
+I’m Founder & Lead Developer at <a href="https://github.com/HardCodeTechnologies" target="_blank">**HardCode Technologies**</a>, where we turn ideas into **scalable digital products**.  
 I build **multi-tenant SaaS platforms**, **web applications**, and **mobile apps** using modern technologies.
   
 
@@ -39,7 +39,7 @@ I build **multi-tenant SaaS platforms**, **web applications**, and **mobile apps
 
 ## 📬 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/cdwenz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:cdwenz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/hardcode_tech"><img src="https://img.shields.io/badge/Website-HardCode_Technologies-FC6502?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cdwenz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:cdwenz.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/hardcode_tech" target="_blank"><img src="https://img.shields.io/badge/Website-HardCode_Technologies-FC6502?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
